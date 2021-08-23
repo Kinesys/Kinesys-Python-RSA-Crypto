@@ -1,4 +1,4 @@
-#Kinesys RSA d값 구하기.py
+#Nephael RSA d값 구하기.py
 #p, q, c, e 값이 주어졌을 경우
 import gmpy2
 
