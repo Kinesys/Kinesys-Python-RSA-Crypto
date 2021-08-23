@@ -1,4 +1,4 @@
-#Kinesys RSA 낮은 지수 공격 (e값이 매우 작고 n값이 매우 큰 경우).py
+#Nephael RSA 낮은 지수 공격 (e값이 매우 작고 n값이 매우 큰 경우).py
 #c, e값이 주어진 경우
 #e가 3라고 가정한 코드(보통 e값은 3임)
 from gmpy2 import *
