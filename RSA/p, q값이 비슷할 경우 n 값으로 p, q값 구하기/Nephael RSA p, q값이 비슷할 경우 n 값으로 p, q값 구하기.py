@@ -1,4 +1,4 @@
-#Kinesys RSA p, q값이 비슷할 경우 n 값으로 p, q값 구하기.py
+#Nephael RSA p, q값이 비슷할 경우 n 값으로 p, q값 구하기.py
 ##n, e, c 값이 주어졌다고 가정
 
 from gmpy2 import *
