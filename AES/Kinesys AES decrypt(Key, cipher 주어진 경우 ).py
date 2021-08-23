@@ -1,4 +1,4 @@
-#Kinesys AES decrypt(Key, cipher 주어진 경우 ).py
+#Nephael AES decrypt(Key, cipher 주어진 경우 ).py
 
 from Crypto.Cipher import AES
 
